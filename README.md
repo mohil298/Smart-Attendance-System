@@ -74,3 +74,14 @@ Add new users/employees data (username/password)
 View employee's attendance
 access the database and also active users
 Check whether employee's attendance was marked or employee was present or absent
+
+
+
+Libraries/Languages Requirements
+
+Latest pip
+HTML
+JavaScript
+MySql
+PHP admin
+Arduino IDE
