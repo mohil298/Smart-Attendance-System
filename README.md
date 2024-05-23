@@ -79,9 +79,15 @@ Check whether employee's attendance was marked or employee was present or absent
 
 Libraries/Languages Requirements
 
+
 Latest pip
+
 HTML
+
 JavaScript
+
 MySql
+
 PHP admin
+
 Arduino IDE
